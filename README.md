@@ -1,4 +1,3 @@
-https://vikash308.github.io/number-guessing-game-/
 
 # 🎯 Number Guessing Game
 
